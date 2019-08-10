@@ -1,6 +1,6 @@
 # webpack-karma
 
-a wbapck and karma unittes example
+a wbapck and karma unittest example
 
 ## usage
 
